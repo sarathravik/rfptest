@@ -1,4 +1,4 @@
-text='jenkin pipline creation'
+text='changed'
 with open('/var/jenkins_home/newfile.txt', 'w') as file:
     # Write the data from the original file to the new file
     file.write(text)
